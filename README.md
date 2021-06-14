@@ -1,0 +1,2 @@
+# idpoolrs
+Tiny id generator.
